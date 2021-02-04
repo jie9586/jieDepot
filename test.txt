@@ -1,1 +1,4 @@
-或者重建一个文件夹
+或者重建一个文件夹git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -u origin main
